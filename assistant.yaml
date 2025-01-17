@@ -1,0 +1,11 @@
+messages:
+  pressSpace: "Press and hold space to speak"
+  loadingModel: "Loading..."
+  noAudioInput: "Error: No sound input!"
+
+whisperRecognition:
+  modelPath: "base.en"
+  lang: "en"
+
+conversation:
+  greeting: "Hi, how can I help you?"
